@@ -1,6 +1,7 @@
 ---
 label: index
 hide_body: false
+display_field: Titre
 fields:
 - name: Titre
   type: text
