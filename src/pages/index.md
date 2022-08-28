@@ -14,6 +14,7 @@ skills:
 - nom: Illustrator
   pourcentage: 60
 - nom: Media
+  pourcentage: 50
 
 ---
 # hello !
