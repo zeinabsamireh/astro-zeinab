@@ -8,6 +8,7 @@ email: zeinabsamire5@gmail.com
 telephone: "+253 77305198"
 skills:
 - nom: Adobe Photoshop
+  pourcentage: 100
 - nom: "  Photography"
 - nom: Illustrator
 - nom: Media
