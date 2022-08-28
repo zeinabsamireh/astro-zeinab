@@ -23,3 +23,26 @@ fields:
 - type: text
   name: telephone
   label: telephone
+- name: skills
+  type: field_group_list
+  fields:
+  - name: nom
+    type: text
+    config:
+      required: false
+    label: nom
+  - name: pourcentage
+    type: number
+    label: pourcentage
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Skills
