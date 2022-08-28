@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/CvLayout.astro
+layout: "../layouts/CvLayout.astro"
 titre: zeinab samireh
-image: ./images/zeino.jpg
-fonction: Développeur
+image: "./images/zeino.jpg"
+fonction: Designer
 adresse: Balbala, Djibouti
 email: zeinabsamire5@gmail.com
-telephone: +253 77305198
----
+telephone: "+253 77305198"
 
+---
 # hello !
