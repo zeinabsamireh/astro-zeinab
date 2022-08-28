@@ -7,10 +7,10 @@ adresse: Balbala, Djibouti
 email: zeinabsamire5@gmail.com
 telephone: "+253 77305198"
 skills:
-- nom: Media
-- nom: Illustrator
-- nom: "  Photography"
 - nom: Adobe Photoshop
+- nom: "  Photography"
+- nom: Illustrator
+- nom: Media
 
 ---
 # hello !
