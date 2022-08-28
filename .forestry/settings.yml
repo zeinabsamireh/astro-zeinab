@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: directory
+  path: src/pages
+  label: cv2
+  create: all
+  match: "**/*"
+  templates:
+  - cv
 - type: document
   path: src/pages/index.md
   label: cv
